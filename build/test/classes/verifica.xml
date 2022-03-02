@@ -1,0 +1,5 @@
+<dataset>
+	<USUARIO LOGIN="astro" EMAIL="astrogildo@peixoto.com" NOME="astrogildo" SENHA="glubglub" PONTOS="5" />
+	<USUARIO LOGIN="etevas" EMAIL="etevaldo@peixoto.com" NOME="etevaldo" SENHA="blugblug" PONTOS="7" />
+	<USUARIO LOGIN="xuraingous" EMAIL="xuraingous@xura.com" NOME="Xuraingous" SENHA="xura" PONTOS="15" />
+</dataset>
